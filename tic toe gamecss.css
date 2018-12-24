@@ -1,0 +1,13 @@
+#col{
+    border: 5px solid black;
+    height: 160px;
+    width: 160px;
+    font-size: 100px;
+    text-align: center;
+}
+
+
+.tab{
+    margin: auto;
+    
+}
